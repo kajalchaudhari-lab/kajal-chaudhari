@@ -46,7 +46,7 @@ int main(){
 				printf("Exiting the program...\n");
 				break;
 				default:
-					printf("Invalid choice! please enter a number brtween 1 an");
+					printf("Invalid choice! please enter a number brtween 1 to 5");
 		}
 	} while (choice != 5);
 	return 0;
